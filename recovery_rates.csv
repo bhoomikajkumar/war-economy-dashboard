@@ -1,0 +1,5 @@
+country,trough_year,trough_index,years_to_recover,pct_of_loss_regained,shock_size_A,recovery_rate_k,half_life_yrs
+Iraq,2003,63.3,3.0,100.0,36.65,2.5321,0.27
+Kuwait,1991,43.5,2.0,100.0,57.2,1.3418,0.52
+Rwanda,1994,49.8,6.0,100.0,51.87,0.4854,1.43
+Ukraine,2022,71.2,,22.2,,,
